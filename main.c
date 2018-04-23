@@ -49,7 +49,8 @@ int main(int argc, char** argv) {
 	setGameName("BEAT EM SHMUP");
 	setScreenSize(640, 480);
 	
-	initPrismWrapperWithConfigFile("data/config.cfg");
+	setMainFileSystem();	
+	initPrismWrapperWithConfigFile("$/cd/data/config.cfg");
 	setMainFileSystem();	
 	setFont("$/rd/fonts/segoe.hdr", "$/rd/fonts/segoe.pkg");
 
@@ -59,9 +60,9 @@ int main(int argc, char** argv) {
 		exitGame();
 	}
 	
-	addMugenFont(1, "font/f-4x6.fnt");
-	addMugenFont(2, "font/f-6x9.fnt");
-	addMugenFont(3, "font/jg.fnt");
+	addMugenFont(1, "font/1.fnt");
+	addMugenFont(2, "font/2.fnt");
+	addMugenFont(3, "font/3.fnt");
 
 	resetGame();
 	setCurrentStoryDefinitionFile("story/OUTRO.def");

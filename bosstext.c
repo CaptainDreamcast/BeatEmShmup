@@ -1,5 +1,7 @@
 #include "bosstext.h"
 
+#include <prism/mugendefreader.h>
+
 #include "gamescreen.h"
 #include "boss.h"
 
