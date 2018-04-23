@@ -1,0 +1,62 @@
+[AnimationDef 1]
+
+[Set]
+time = 0
+velX = -2
+velY = 2
+
+[AnimationDef 2]
+
+[Set]
+time = 0
+velX = 0
+velY = 2
+
+[AnimationDef 3]
+
+[Set]
+time = 0
+velX = 2
+velY = 2
+
+[AnimationDef 11]
+
+[Set]
+time = 0
+velX = -2
+velY = 4
+
+[AnimationDef 12]
+
+[Set]
+time = 0
+velX = 0
+velY = 4
+
+[AnimationDef 13]
+
+[Set]
+time = 0
+velX = 2
+velY = 4
+
+[AnimationDef 21]
+
+[Set]
+time = 0
+velX = -2
+velY = 1
+
+[AnimationDef 22]
+
+[Set]
+time = 0
+velX = 0
+velY = 1
+
+[AnimationDef 23]
+
+[Set]
+time = 0
+velX = 2
+velY = 1

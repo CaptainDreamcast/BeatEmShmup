@@ -1,0 +1,331 @@
+[AnimationDef 1]
+
+[Interpolation]
+time = 0
+posX = 20.0
+posY = -100.0
+
+[Interpolation]
+time = 120
+posX = 80.0
+posY = 100.0
+
+[Set]
+time = 150
+cb = 1
+
+[Interpolation]
+time = 180
+posX = 80.0
+posY = 100.0
+
+[Interpolation]
+time = 300
+posX = -20.0
+posY = -100.0
+
+[Set]
+time = 299
+cb = 2
+
+[AnimationDef 2]
+
+[Interpolation]
+time = 0
+posX = 500.0
+posY = -100.0
+
+[Interpolation]
+time = 120
+posX = 400.0
+posY = 100.0
+
+[Set]
+time = 150
+cb = 1
+
+[Interpolation]
+time = 180
+posX = 80.0
+posY = 100.0
+
+[Interpolation]
+time = 300
+posX = -20.0
+posY = -100.0
+
+[Set]
+time = 299
+cb = 2
+
+[AnimationDef 10]
+
+[Interpolation]
+time = 0
+posX = 236.0
+posY = -100.0
+
+[Interpolation]
+time = 120
+posY = 200.0
+
+[Interpolation]
+time = 400
+posY = 200.0
+
+[Interpolation]
+time = 500
+posY = -100.0
+
+[Set]
+time = 499
+cb = 2
+
+[AnimationDef 11]
+
+[Interpolation]
+time = 0
+posX = 236.0
+posY = -100.0
+
+[Interpolation]
+time = 120
+posY = 200.0
+
+[Set]
+time = 150
+cb = 1
+
+[Set]
+time = 180
+cb = 1
+
+[Set]
+time = 210
+cb = 1
+
+[Interpolation]
+time = 400
+posY = 200.0
+
+[Interpolation]
+time = 500
+posY = -100.0
+
+[Set]
+time = 499
+cb = 2
+
+[AnimationDef 12]
+
+[Interpolation]
+time = 0
+posX = 336.0
+posY = -100.0
+
+[Interpolation]
+time = 120
+posY = 200.0
+
+[Interpolation]
+time = 400
+posY = 200.0
+
+[Interpolation]
+time = 500
+posY = -100.0
+
+[Set]
+time = 499
+cb = 2
+
+[AnimationDef 13]
+
+[Interpolation]
+time = 0
+posX = 136.0
+posY = -100.0
+
+[Interpolation]
+time = 120
+posY = 200.0
+
+[Interpolation]
+time = 400
+posY = 200.0
+
+[Interpolation]
+time = 500
+posY = -100.0
+
+[Set]
+time = 499
+cb = 2
+
+[AnimationDef 20]
+
+[Interpolation]
+time = 0
+posX = 236.0
+posY = -100.0
+
+[Interpolation]
+time = 120
+posX = 300.0
+posY = 150.0
+
+[Set]
+time = 130
+cb = 1
+
+[Set]
+time = 150
+cb = 1
+
+[Set]
+time = 170
+cb = 1
+
+[Set]
+time = 190
+cb = 1
+
+[Set]
+time = 210
+cb = 1
+
+[Interpolation]
+time = 400
+posX = 300.0
+posY = 150.0
+
+[Interpolation]
+time = 500
+posX = 100
+posY = -100.0
+
+[Set]
+time = 499
+cb = 2
+
+
+[AnimationDef 21]
+
+[Interpolation]
+time = 0
+posX = 355.0
+posY = -100.0
+
+[Interpolation]
+time = 120
+posX = 140.0
+posY = 150.0
+
+[Set]
+time = 130
+cb = 1
+
+[Set]
+time = 150
+cb = 1
+
+[Set]
+time = 170
+cb = 1
+
+[Set]
+time = 190
+cb = 1
+
+[Set]
+time = 210
+cb = 1
+
+[Interpolation]
+time = 400
+posX = 140.0
+posY = 150.0
+
+[Interpolation]
+time = 500
+posX = 400
+posY = -100.0
+
+[Set]
+time = 499
+cb = 2
+
+[AnimationDef 22]
+
+[Interpolation]
+time = 0
+posX = 20.0
+posY = -100.0
+
+[Interpolation]
+time = 120
+posX = 400.0
+posY = 150.0
+
+[Set]
+time = 130
+cb = 1
+
+[Set]
+time = 150
+cb = 1
+
+[Set]
+time = 170
+cb = 1
+
+[Set]
+time = 190
+cb = 1
+
+[Set]
+time = 210
+cb = 1
+
+[Interpolation]
+time = 400
+posX = 400.0
+posY = 150.0
+
+[Interpolation]
+time = 500
+posX = 400
+posY = -100.0
+
+[Set]
+time = 499
+cb = 2
+
+
+[AnimationDef 1000]
+duration = 401
+
+[Set]
+time = 130
+cb = 1
+
+[Set]
+time = 150
+cb = 1
+
+[Set]
+time = 170
+cb = 1
+
+[Set]
+time = 190
+cb = 1
+
+[Set]
+time = 210
+cb = 1
+
+[Set]
+time = 400
+cb = 3
+

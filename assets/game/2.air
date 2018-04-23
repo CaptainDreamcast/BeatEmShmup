@@ -1,0 +1,65 @@
+
+[Begin Action 100]
+Clsn1: 1
+  Clsn1[0] = -12, -12, 12, 12
+100,0, 0,0, 10
+
+[Begin Action 101]
+Clsn1: 1
+  Clsn1[0] = -11, -12, 12, 12
+100,1, 0,0, 10
+
+[Begin Action 102]
+Clsn1: 1
+  Clsn1[0] = -12, -11, 12, 12
+100,2, 0,0, 10
+
+[Begin Action 103]
+Clsn1: 1
+  Clsn1[0] = -12, -12, 12, 12
+100,3, 0,0, 10
+
+[Begin Action 104]
+Clsn1: 1
+  Clsn1[0] = -11, -12, 12, 12
+100,4, 0,0, 10
+
+[Begin Action 105]
+Clsn1: 1
+  Clsn1[0] = -12, -13, 12, 12
+100,5, 0,0, 10
+
+[Begin Action 106]
+Clsn1: 1
+  Clsn1[0] = -10, -10, 13, 13
+100,6, 0,0, 10
+
+[Begin Action 107]
+Clsn1: 1
+  Clsn1[0] = -12, -12, 12, 12
+100,7, 0,0, 10
+
+[Begin Action 108]
+Clsn1: 1
+  Clsn1[0] = -12, -12, 13, 12
+100,8, 0,0, 10
+
+[Begin Action 11]
+11,0, 0,0, 10
+
+[Begin Action 50]
+50,0, 0,0, 10
+
+[Begin Action 51]
+51,0, 0,0, 10
+
+[Begin Action 52]
+52,0, 0,0, 10
+
+[Begin Action 53]
+53,0, 0,0, 10
+
+[Begin Action 1000]
+Clsn2: 1
+  Clsn2[0] = -12, -25, 12, 25
+1000,0, 0,0, 10

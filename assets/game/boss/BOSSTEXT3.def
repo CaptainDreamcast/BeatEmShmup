@@ -1,0 +1,49 @@
+
+[Text 0]
+speaker = "Shmup:"
+text = "AT LAST, I reached EM's core! I think!"
+
+[Text 1]
+speaker = "Shmup:"
+text = "It only took three eerily similar stages!"
+
+[Text 2]
+speaker = "CEO:"
+text = "..."
+
+[Text 3]
+speaker = "CEO:"
+text = "You're the real villain of this game."
+
+[Text 4]
+speaker = "Shmup:"
+text = "Huh?"
+
+[Text 5]
+speaker = "CEO:"
+text = "We're just trying to help people."
+
+[Text 6]
+speaker = "Shmup:"
+text = "Mimimi, look at me, we're just trying to help people."
+
+[Text 7]
+speaker = "CEO:"
+text = "YOU'RE BULLYING RIGHT NOW!"
+
+[Text 8]
+speaker = "CEO:"
+text = "Even you must realize this is foolish, so let's call it quits, okay?"
+yes = "No"
+no = "Double-No"
+yesNext = 9
+noNext = 9
+
+[Text 9]
+speaker = "Shmup:"
+text = "SURRENDER MORTAL, EARTHREALM WILL BE MINE!"
+
+[Text 10]
+speaker = "CEO:"
+text = "NOW YOU'RE SHAO KAHN?!"
+yesNext = -1

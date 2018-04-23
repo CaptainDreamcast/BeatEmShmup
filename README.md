@@ -1,2 +1,4 @@
-# Hilarious
-Something resembling a shmup/beat-em-up mashup for Dreamcast, Windows and Web.
+# Prism Game Template
+Something resembling a Prism game template for quick deployment.
+
+[Link to the game on itch.](https://captaindreamcast.itch.io)

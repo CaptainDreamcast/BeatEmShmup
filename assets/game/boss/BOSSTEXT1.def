@@ -1,0 +1,75 @@
+
+[Text 0]
+speaker = "Boss:"
+text = "YOUNG MAN!"
+yesNext = 1
+
+[Text 0]
+speaker = "Shmup:"
+text = "OLD MAN!"
+
+[Text 0]
+speaker = "Boss:"
+text = "You did not enter his place by looking me straight into the eye and giving me a firm handshake!"
+
+[Text 0]
+speaker = "Boss:"
+text = "You won't get the job!"
+
+[Text 0]
+speaker = "Shmup:"
+text = "Wh- what?"
+
+[Text 5]
+speaker = "Boss:"
+text = "Inquisitive, I like that. You know what, I've changed my mind. What do you say to working for me?"
+yes = "Yeah, sure, whatever dude."
+no = "No, I came here to stop EM!"
+yesnext = 10
+nonext = 6
+
+[Text 6]
+speaker = "Boss:"
+text = "But why?"
+
+[Text 7]
+speaker = "Shmup:"
+text = "..."
+
+[Text 8]
+speaker = "Boss:"
+text = "..."
+
+[Text 9]
+speaker = "Shmup:"
+text = "I CAME HERE TO STOP EM!"
+yesnext = -1
+
+[Text 10]
+speaker = "Boss:"
+text = "N- no, you just made a mistake, you were supposed to answer No."
+yes = "But I want the job."
+no = "Oh, right, I'm the good guy."
+yesnext = 11
+nonext = -1
+
+[Text 11]
+speaker = "Boss:"
+text = "It's a really hard job though. Menial labour. Long working hours. No breaks. Ever."
+yes = "Normal in the current job market."
+no = "THEN I'LL DESTROY EM, I GUESS!"
+yesnext = 12
+nonext = -1
+
+[Text 12]
+speaker = "Boss:"
+text = "You're just doing this to see how far the text goes now, aren't you?"
+yes = "Yeah."
+no = "Yeah."
+yesnext = 13
+nonext = 13
+
+[Text 13]
+speaker = "Boss:"
+text = "PLEASE STOP BREAKING THE NARRATIVE."
+yesnext = -1

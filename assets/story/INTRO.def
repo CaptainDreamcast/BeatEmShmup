@@ -1,0 +1,68 @@
+[Header]
+Sprites = story/INTRO.sff
+
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Narrator"
+Text = "In the space year 2018, 99% of the information market is controlled by the evil Em Company."
+
+[Text 1]
+Speaker = "Narrator"
+Text = "Only a small ragtag group of teenagers, the Unnices, dare oppose this megalomanical company."
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = "Narrator"
+Text = "Their newest member is a young hacker called Shmup. Rumor has it he can calculate an entire bitcoin in under 5 minutes."
+
+[Text 1]
+Speaker = "Narrator, slightly regretting adding the speaker box"
+Text = "Shmup's specialty is an antique type of hacking, the fabled punch-hacking. This mystical art allows users to infiltrate systems and buildings by punching everybody inside them really really hard."
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = "Narrator, prounouncing it ayy ehmmm"
+Text = "Will this be enough to take down the evil Em corporation?"
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = "Narrator, remembers the game was supposed to have a message"
+Text = "Will Shmup be able to stay himself against an enemy that controls information?"
+
+
+[Image 1]
+Group = 1
+Item = 4
+
+[Text 1]
+Speaker = "Narrator, trying to fit in with the cool kids"
+Text = "Will this game ever have a proper joke?"
+
+[Text 1]
+Speaker = "Narrator, foreshadowing"
+Text = "All we can do is pray and say, in a very natural fashion:"
+
+[Image 1]
+Group = 1
+Item = 5
+
+[Text 1]
+Speaker = "So it was always just the narrator, wasn't it"
+Text = "BEAT EM, SHMUP! (R) (C) (TM)"
+
+[Game]

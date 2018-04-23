@@ -1,0 +1,16 @@
+[AnimationDef 52]
+loop = 1
+duration = 60
+
+[Interpolation]
+time = 0
+mugenPosX = -5.0
+
+[Interpolation]
+time = 30
+mugenPosX = 5.0
+
+
+[Interpolation]
+time = 59
+mugenPosX = -5.0

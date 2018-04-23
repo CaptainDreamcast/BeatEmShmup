@@ -1,0 +1,54 @@
+
+[Text 0]
+speaker = "Shmup:"
+text = "Well she looks more normal than the last guy."
+
+[Text 1]
+speaker = "Pardner:"
+text = "Hey, hey, hey, whaddaya call ya mah's mah on speeddial?"
+
+[Text 2]
+speaker = "Shmup:"
+text = "..."
+
+[Text 3]
+speaker = "Pardner:"
+text = "INSTA-GRAM! Hahahahaha!"
+
+[Text 4]
+speaker = "Shmup:"
+text = "So much for that."
+
+[Text 5]
+speaker = "Narrator:"
+text = "This counts. This counts as a joke."
+
+[Text 6]
+speaker = "Pardner:"
+text = "Anywhooze, if I offered ya 1000 dollars, would ya change yer Outlook and Excel at EM?"
+yes = "I'd do it for free, honestly."
+no = "EM killed my family (means no)."
+yesNext = 8
+noNext = 7
+
+[Text 7]
+speaker = "Pardner:"
+text = "Guess tha Insta-Gram joke cut deep, eh?"
+yesNext = -1
+
+[Text 8]
+speaker = "Pardner:"
+text = "Please stick to the proper answers."
+
+[Text 8]
+speaker = "Narrator:"
+text = "Please stick to the proper answers."
+
+[Text 8]
+speaker = "Tellt*le writer:"
+text = "Please stick to the proper answers."
+
+[Text 8]
+speaker = "Shmup:"
+text = "Something was a little off about the last one."
+yesNext = -1

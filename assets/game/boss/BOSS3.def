@@ -1,0 +1,14 @@
+[Header]
+time = 60
+name = BOSS:
+life = 30
+
+[Bullet 1]
+time = 0
+type = shot
+value = 100
+
+[Bullet 1]
+time = 20
+type = anim
+value = 19

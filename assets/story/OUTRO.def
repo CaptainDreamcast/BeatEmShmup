@@ -1,0 +1,55 @@
+[Header]
+Sprites = story/OUTRO.sff
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Narrator, still here"
+Text = "The evil(?) Em company crumbled after three of its executives were punched between ten and twenty times and the people of the world were free once again."
+
+[Text 1]
+Speaker = "Narrator, this is serious exposition stop checking here"
+Text = "Our valiant heroes, the Unnices, rebuilt from the rubble and gave power back to the people."
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = "Narrator, why indeed"
+Text = "Their very own competing service, wahoo, quickly took Em's place. People stopped using Embook and went back to Whyspace."
+
+[Text 1]
+Speaker = "Narrator, proud wahoo shareholder"
+Text = "Life as a wahoo shareholder was never better."
+
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = "Narrator, there was no more time for a bad ending"
+Text = "Our hero learnt about the importance of staying true to yourself in the face of adversity. (Unless you answered the questions wrong, in that case consider yourself informally reprimanded. Just consider this the bad ending then. Otherwise this is the good ending. Thanks.)"
+
+[Text 1]
+Speaker = "Narrator"
+Text = "Another thing helped too."
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = "Narrator, for one welcoming our new overlord"
+Text = "The complete and utter conquest of Earthrealm and the subjugation of the human race under God-crowned Emperor Shmup III."
+
+[Text 1]
+Speaker = ""
+Text = "Thanks for playing!"
+
+[Title]

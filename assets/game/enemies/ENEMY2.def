@@ -1,0 +1,99 @@
+[Enemy]
+time = 300
+anim = 100
+timeline = 1000
+shot = 1
+
+[Enemy]
+time = 800
+anim = 100
+timeline = 1000
+shot = 22
+
+[Enemy]
+time = 800
+anim = 100
+timeline = 1000
+shot = 22
+
+[Enemy]
+time = 800
+anim = 100
+timeline = 1000
+shot = 22
+
+
+[Enemy]
+time = 1300 
+anim = 100
+timeline = 1000
+shot = 1
+
+[Enemy]
+time = 1300 
+anim = 100
+timeline = 1000
+shot = 1
+
+[Enemy]
+time = 1300 
+anim = 100
+timeline = 1000
+shot = 1
+
+
+[Enemy]
+time = 1800 
+anim = 100
+timeline = 1000
+shot = 1
+
+[Enemy]
+time = 1800 
+anim = 100
+timeline = 1000
+shot = 1
+
+[Enemy]
+time = 1800 
+anim = 100
+timeline = 1000
+shot = 1
+
+[Enemy]
+time = 1800 
+anim = 100
+timeline = 1000
+shot = 1
+
+
+[Enemy]
+time = 2400 
+anim = 100
+timeline = 1000
+shot = 1
+
+[Enemy]
+time = 2400 
+anim = 100
+timeline = 1000
+shot = 1
+
+[Enemy]
+time = 2400 
+anim = 100
+timeline = 1000
+shot = 1
+
+[Enemy]
+time = 2400 
+anim = 100
+timeline = 1000
+shot = 1
+
+[Enemy]
+time = 3000 
+anim = 100
+timeline = 1000
+shot = 1
+finalboss = 1

@@ -1,0 +1,63 @@
+[AnimationDef 2]
+loop = 1
+duration = 20
+
+[Interpolation]
+time = 0
+angle = 0
+
+[Interpolation]
+time = 10
+angle = 0
+
+[Interpolation]
+time = 19
+angle = 0
+
+
+[AnimationDef 10]
+
+[Interpolation]
+time = 0
+posX = -20.0
+posY = -5.0
+angle = 0
+
+[Interpolation]
+time = 20
+posX = -5.0
+posY = -25.0
+angle = -0.3
+
+[Interpolation]
+time = 21
+posX = -2000.0
+posY = -2000.0
+
+[Interpolation]
+time = 20
+cb = 1
+
+[AnimationDef 20]
+
+[Interpolation]
+time = 0
+posX = 20.0
+posY = -5.0
+angle = 0
+
+[Interpolation]
+time = 20
+posX = 5.0
+posY = -25.0
+angle = 0.3
+
+[Interpolation]
+time = 21
+posX = -2000.0
+posY = -2000.0
+
+[Interpolation]
+time = 20
+cb = 1
+

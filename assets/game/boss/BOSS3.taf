@@ -1,0 +1,9 @@
+[AnimationDef 1]
+
+[Set]
+time = 0
+velY = 2
+
+[Set]
+time = 60
+velY = 0

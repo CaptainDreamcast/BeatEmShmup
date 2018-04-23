@@ -1,0 +1,50 @@
+
+[Bullet 1]
+anim = 1
+radius = 8
+timeline = 1
+
+
+[Bullet 2]
+anim = 1
+radius = 8
+timeline = 2
+
+[Bullet 3]
+anim = 1
+radius = 8
+timeline = 3
+
+
+[Bullet 11]
+anim = 1
+radius = 8
+timeline = 11
+
+
+[Bullet 12]
+anim = 1
+radius = 8
+timeline = 12
+
+[Bullet 13]
+anim = 1
+radius = 8
+timeline = 13
+
+[Bullet 21]
+anim = 1
+radius = 8
+timeline = 21
+
+
+[Bullet 22]
+anim = 1
+radius = 8
+timeline = 22
+
+[Bullet 23]
+anim = 1
+radius = 8
+timeline = 23
+

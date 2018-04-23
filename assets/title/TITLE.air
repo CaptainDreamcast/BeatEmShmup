@@ -1,0 +1,19 @@
+
+[Begin Action 2]
+2,0, 0,0, 30
+2,1, 0,0, 30
+
+[Begin Action 1]
+2,0, 0,0, 10
+
+[Begin Action 3]
+3,1, 0,0, 30
+
+[Begin Action 4]
+4,0, 0,0, 10
+
+[Begin Action 5]
+5,0, 0,0, 10
+
+[Begin Action 10]
+10,0, 0,0, 10
